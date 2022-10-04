@@ -6,4 +6,6 @@ def main(b):
         bool
     """
     # Write your code here
-    return 
+    return not b
+
+print(main(0))
